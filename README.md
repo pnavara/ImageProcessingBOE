@@ -4,4 +4,4 @@ Collaboration project between CalState LA and City of LA - BOE.
 Goal: Find the horizontal and vertical displacements of sidewalk with an image. Functionality for a running rover to detect and measure these displacements. 
 
 **Work seperated**
-Work is still in progress therefore only commited to branches. Branches are made for separate students to stay true to file system for future use.
+> Work is still in progress therefore only commited to branches. Branches are made for separate students to stay true to file system for future use.
